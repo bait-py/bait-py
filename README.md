@@ -35,6 +35,7 @@
 
 ### 🌐 [BUBI Server](https://github.com/bait-py/BUBI_Server)
 > Raspberry Pi configurada como servidor multifuncional.
+
 ![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
 
 ---
