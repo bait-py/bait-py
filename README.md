@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Bruno  
+# 👋 ¡Hola! Soy Bruno Alonso (@bait-py)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Amante+de+los+proyectos+innovadores)](https://git.io/typing-svg)
 
@@ -6,10 +6,10 @@
 
 ## 🌟 Sobre mí
 
-🎓 **Formación**: [Tu especialidad/carrera]  
-💼 **Actualmente trabajando en**: [Tu puesto o proyectos actuales]  
-🌱 **Aprendiendo**: [Lenguaje o tecnología]  
-⚡ **Datos curiosos**: [Algo interesante sobre ti]  
+🎓 **Formación**: Ingeniero en Computación  
+💼 **Actualmente trabajando en**: Desarrollo Backend y personalización de plataformas.  
+🌱 **Aprendiendo**: Integración de tecnologías en Raspberry Pi  
+⚡ **Datos curiosos**: ¡Fanático de los videojuegos y la automatización!  
 
 ---
 
@@ -23,33 +23,33 @@
 
 ## 🚀 Proyectos Destacados
 
-### 📊 [League of Legends Stats System](https://github.com/tu-repo)
+### 📊 [League of Legends Stats System](https://github.com/bait-py/LeagueStats)
 > Sistema para el seguimiento de estadísticas del juego.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Imagen+del+Proyecto)
+![LoL Stats Preview](https://github.com/bait-py/LeagueStats/raw/main/images/dashboard.png)
 
-### 💻 [Temas JO-EL](https://github.com/tu-repo)
-> Correcciones de temas y colores para el entorno de programación.
+### 💻 [Temas JO-EL](https://github.com/bait-py/temasjoel)
+> Correcciones de temas y colores para una plataforma educativa.
 
-![Project GIF](https://via.placeholder.com/800x400.gif?text=GIF+de+Demostración)
+![Tema Candy](https://github.com/bait-py/temasjoel/raw/main/images/candy.png)
 
-### 🌐 [BUBI Server](https://github.com/tu-repo)
-> Backend robusto para manejar grandes volúmenes de datos.
+### 🌐 [BUBI Server](https://github.com/bait-py/BUBI_Server)
+> Raspberry Pi configurada como servidor multifuncional.
 
 ---
 
 ## 📊 Estadísticas de GitHub  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bait-py&theme=radical" alt="Streak Stats" height="180"/>
 </div>
 
 ---
 
 ## 🌐 Encuéntrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoalonso)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://tu-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-perfil)
 
