@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy Bruno Alonso (@bait-py)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Amante+de+los+proyectos+innovadores)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Desarrollador+Backend)](https://git.io/typing-svg)
 
 ---
 
 ## 🌟 Sobre mí
 
-🎓 **Formación**: Ingeniero en Computación  
+🎓 **Formación**: Técnico informático
 💼 **Actualmente trabajando en**: Desarrollo Backend y personalización de plataformas.  
 🌱 **Aprendiendo**: Integración de tecnologías en Raspberry Pi  
 ⚡ **Datos curiosos**: ¡Fanático de los videojuegos y la automatización!  
@@ -35,6 +35,7 @@
 
 ### 🌐 [BUBI Server](https://github.com/bait-py/BUBI_Server)
 > Raspberry Pi configurada como servidor multifuncional.
+![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
 
 ---
 
