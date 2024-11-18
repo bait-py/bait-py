@@ -30,7 +30,7 @@
 ### 💻 [Temas JO-EL](https://github.com/bait-py/temasjoel)
 > Correcciones de temas y colores para una plataforma educativa.
 
-![Tema Candy](https://github.com/bait-py/temasjoel/raw/main/images/candy.png)
+![Tema Atom One Dark](https://raw.githubusercontent.com/bait-py/temasjoel/main/images/atomdark.jpg)
 
 ### 🌐 [BUBI Server](https://github.com/bait-py/BUBI_Server)
 > Raspberry Pi configurada como servidor multifuncional.
