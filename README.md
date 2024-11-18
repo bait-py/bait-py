@@ -5,7 +5,7 @@
 
 ## 🌟 Sobre mí
 
-🎓 **Formación**: Técnico informático
+🎓 **Formación**: Técnico informático  
 💼 **Actualmente trabajando en**: Desarrollo Backend y personalización de plataformas.  
 🌱 **Aprendiendo**: Integración de tecnologías en Raspberry Pi  
 ⚡ **Datos curiosos**: ¡Fanático de los videojuegos y la automatización!  
