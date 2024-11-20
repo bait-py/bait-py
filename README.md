@@ -1,4 +1,5 @@
 # Bruno Alonso (@bait-py)
+Soy Bruno Alonso, estudiante de DAM con una pasión por la programación. He explorado un amplio abanico de tecnologías, desde el backend con Java y Python hasta el frontend con JavaScript, HTML y CSS. Me encanta construir aplicaciones web completas y explorar nuevas herramientas como Docker para optimizar mis proyectos.
 
 ## 🛠️ Tecnologías
 
