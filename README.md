@@ -1,15 +1,6 @@
-# 👋 ¡Hola! Soy Bruno Alonso (@bait-py)
+# Bruno Alonso (@bait-py)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Desarrollador+Backend)](https://git.io/typing-svg)
----
-
-## 🌟 Sobre mí
-
-🎓 **Formación**: Técnico informático  
-💼 **Actualmente trabajando en**: Desarrollo Backend y personalización de plataformas.  
-🌱 **Aprendiendo**: Integración de tecnologías en Raspberry Pi  
-⚡ **Datos curiosos**: ¡Fanático de los videojuegos y la automatización!  
-
 ---
 
 ## 🔧 Tecnologías y Herramientas  
@@ -53,7 +44,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoalonso)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://tu-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-perfil)
-
----
-
-### ¡Gracias por visitar mi perfil! 😄✨
