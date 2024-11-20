@@ -22,6 +22,11 @@
 
 ## 🚀 Proyectos Destacados
 
+### 🌐 [BUBI Server](https://github.com/bait-py/bubiserver)
+> Raspberry Pi configurada como servidor multifuncional.
+
+![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
+
 ### 📊 [NyoloqChallenge](https://github.com/bait-py/nyoloqchallenge)
 > Sistema para el seguimiento de estadísticas de League of Legends.
 
@@ -31,11 +36,6 @@
 > Correcciones de temas y colores para una plataforma educativa.
 
 ![Tema Atom One Dark](https://raw.githubusercontent.com/bait-py/temasjoel/main/images/atomdark.jpg)
-
-### 🌐 [BUBI Server](https://github.com/bait-py/bubiserver)
-> Raspberry Pi configurada como servidor multifuncional.
-
-![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
 
 ---
 
