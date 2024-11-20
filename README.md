@@ -22,8 +22,8 @@
 
 ## 🚀 Proyectos Destacados
 
-### 📊 [League of Legends Stats System](https://github.com/bait-py/LeagueStats)
-> Sistema para el seguimiento de estadísticas del juego.
+### 📊 [NyoloqChallenge](https://github.com/bait-py/nyoloqchallenge)
+> Sistema para el seguimiento de estadísticas de League of Legends.
 
 ![LoL Stats Preview](https://github.com/bait-py/LeagueStats/raw/main/images/dashboard.png)
 
@@ -32,7 +32,7 @@
 
 ![Tema Atom One Dark](https://raw.githubusercontent.com/bait-py/temasjoel/main/images/atomdark.jpg)
 
-### 🌐 [BUBI Server](https://github.com/bait-py/BUBI_Server)
+### 🌐 [BUBI Server](https://github.com/bait-py/bubiserver)
 > Raspberry Pi configurada como servidor multifuncional.
 
 ![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
