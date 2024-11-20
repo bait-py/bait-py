@@ -25,7 +25,7 @@
 ### 📊 [NyoloqChallenge](https://github.com/bait-py/nyoloqchallenge)
 > Sistema para el seguimiento de estadísticas de League of Legends.
 
-![LoL Stats Preview](https://github.com/bait-py/LeagueStats/raw/main/images/dashboard.png)
+![LoL Stats Preview](https://raw.githubusercontent.com/bait-py/nyoloqchallenge/main/images/leaguestats.jpg)
 
 ### 💻 [Temas JO-EL](https://github.com/bait-py/temasjoel)
 > Correcciones de temas y colores para una plataforma educativa.
