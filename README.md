@@ -1,9 +1,5 @@
 # Bruno Alonso (@bait-py)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
-
----
-
 ## 🛠️ Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
