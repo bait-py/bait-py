@@ -79,7 +79,7 @@
   ![Tema Atom One Dark](https://raw.githubusercontent.com/bait-py/temasjoel/main/images/atomdark.jpg)
 
 ### 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bait-py&show_icons=true&locale=en&layout=compact" alt="bait-py"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en" alt="bait-py" /></p>
 
 ### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/brunoalonso)
