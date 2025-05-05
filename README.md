@@ -1,7 +1,7 @@
 <h1 align="center">Bruno Alonso (@bait-py)</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h3 align="center">Developer from Spain focused on impactful builds</h3>
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
@@ -69,26 +69,18 @@
 </p>
 
 ### 🚀 Projects
+- **[BUBI Server](https://github.com/bait-py/bubiserver)** – Multi-functional Raspberry Pi server  
+  ![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
 
-### 🌐 [BUBI Server](https://github.com/bait-py/bubiserver)
-Raspberry Pi set up as a multi-functional personal server.
+- **[NyoloqChallenge](https://github.com/bait-py/nyoloqchallenge)** – League of Legends stat tracker  
+  ![LoL Stats Preview](https://raw.githubusercontent.com/bait-py/nyoloqchallenge/main/images/leaguestats.jpg)
 
-![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
+- **[Temas JO-EL](https://github.com/bait-py/temasjoel)** – UI fixes for education platform  
+  ![Tema Atom One Dark](https://raw.githubusercontent.com/bait-py/temasjoel/main/images/atomdark.jpg)
 
-### 📊 [NyoloqChallenge](https://github.com/bait-py/nyoloqchallenge)
-League of Legends statistics tracking system.
-
-![LoL Stats Preview](https://raw.githubusercontent.com/bait-py/nyoloqchallenge/main/images/leaguestats.jpg)
-
-### 💻 [Temas JO-EL](https://github.com/bait-py/temasjoel)
-Theme and color scheme fixes for an educational platform.
-
-![Tema Atom One Dark](https://raw.githubusercontent.com/bait-py/temasjoel/main/images/atomdark.jpg)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bait-py&show_icons=true&locale=en&layout=compact" alt="bait-py" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en" alt="bait-py" /></p>
+### 📈 GitHub Stats
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bait-py&layout=compact&theme=default" height="140"/></p>
 
 ### 🌐 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoalonso)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://github.com/bait-py/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/brunoalonso)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web)](https://github.com/bait-py/portfolio)
