@@ -32,7 +32,7 @@ Correcciones de temas y colores para una plataforma educativa.
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoalonso)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://github.com/bait-py/portfolio)
