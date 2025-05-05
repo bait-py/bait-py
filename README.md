@@ -23,12 +23,9 @@ Correcciones de temas y colores para una plataforma educativa.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&theme=radical" alt="Estadísticas" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bait-py&theme=radical" alt="Streak Stats" height="180"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bait-py&show_icons=true&locale=en&layout=compact" alt="bait-py" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en" alt="bait-py" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bait-py&" alt="bait-py" /></p>
 
 ---
 
