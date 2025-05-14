@@ -82,5 +82,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en" alt="bait-py" /></p>
 
 ### 🌐 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/brunoalonso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/bruno-alonso-pujol-b14171262/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web)](https://github.com/bait-py/portfolio)
