@@ -83,4 +83,4 @@
 
 ### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/bruno-alonso-pujol-b14171262/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web)](https://github.com/bait-py/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web)](https://bait-py.github.io/portfolio/)
