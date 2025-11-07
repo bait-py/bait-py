@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bruno Alonso (@bait-py)</h1>
-<h3 align="center">Full-Stack Developer from Spain | Building impactful solutions with a passion for **DevOps** 🚀</h3>
+<h3 align="center">Full-Stack Developer from Spain | Building impactful solutions with a passion for <b>DevOps</b> 🚀</h3>
 
 ---
 
