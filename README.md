@@ -67,14 +67,12 @@ Take a look at my recent builds:
 
 ## 🔗 Connect & Explore My Work
 
-### Portfolio: **<a href="https://bait-py.github.io/portfolio/" target="_blank">bait-py.github.io/portfolio/</a>**
-
 Connect with me and see more of my work:
 
 | Platform | Link |
 | :---: | :---: |
 | **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://bait-py.github.io/portfolio/) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-alonso-pujol-b14171262/) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoalonsopujol) |
 
 ---
 
