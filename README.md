@@ -15,10 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
