@@ -1,5 +1,6 @@
 <h1 align="center">🎣 Bruno Alonso (@bait-py)</h1>
-<h3 align="center">Full-Stack Developer from Spain | Building impactful solutions with a passion for DevOps</h3>
+<h3>Full-Stack Developer from Spain | Building impactful solutions with a passion for DevOps</h3>
+I'm a full-stack developer from Spain, focused on building robust and scalable solutions with a solid DevOps mindset. From infrastructure automation to container orchestration, I craft each project end-to-end — planning, coding, deploying, and optimizing for real-world impact. Passionate about Linux, cloud-native tech, and making systems work smoother every day.
 
 ---
 
