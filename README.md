@@ -1,11 +1,9 @@
 <h1 align="center">🎣 Bruno Alonso (@bait-py)</h1>
-<h3 align="center">Full-Stack Developer from Spain | Building impactful solutions with a passion for <b>DevOps</b></h3>
+<h3 align="center">Full-Stack Developer from Spain | Building impactful solutions with a passion for DevOps</h3>
 
 ---
 
-## 💻 Tech Stack & Expertise
-
-My toolkit spans from full-stack web development to robust server infrastructure.
+### 🧰 Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50" height="50"/>
@@ -28,7 +26,9 @@ My toolkit spans from full-stack web development to robust server infrastructure
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="50" height="50"/>
 </p>
 
-## 🛠️ Featured Projects
+#
+
+### 🛠️ Featured Projects
 
 Take a look at my recent builds:
 
@@ -73,17 +73,18 @@ Take a look at my recent builds:
   </table>
 </div>
 
----
+#
 
-## 🔗 Connect & Explore My Work
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en&theme=dark" alt="bait-py" />
 
-| Platform | Link |
-| :---: | :---: |
-| **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://bait-py.github.io/portfolio/) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunoalonsopujol) |
+#
 
----
-
-## 📊 GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en&theme=dark" alt="bait-py" /></p>
+<p align="center">
+  <a href="https://bait-py.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/brunoalonsopujol">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
