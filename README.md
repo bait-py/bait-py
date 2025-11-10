@@ -68,8 +68,8 @@
           <img src="https://github.com/bait-py/dotfiles/blob/main/images/desktop.png" alt="Hyprland desktop" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px;"/>
         </a>
         <br />
-        <strong>Statify</strong>
-        <p>Containerized web application for Spotify artists to analyze their metrics.</p>
+        <strong>Hyprland Dotfiles</strong>
+        <p>My hyprland desktop dotfiles and other configurations.</p>
       </td>
     </tr>
   </table>
