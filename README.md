@@ -1,5 +1,5 @@
-<h1 align="center">👋 Bruno Alonso (@bait-py)</h1>
-<h3 align="center">Full-Stack Developer from Spain | Building impactful solutions with a passion for <b>DevOps</b> 🚀</h3>
+<h1 align="center">🎣 Bruno Alonso (@bait-py)</h1>
+<h3 align="center">Full-Stack Developer from Spain | Building impactful solutions with a passion for <b>DevOps</b></h3>
 
 ---
 
@@ -60,6 +60,16 @@ Take a look at my recent builds:
         <p>UI/UX fixes and custom themes for an education platform.</p>
       </td>
     </tr>
+    <tr>
+      <td style="width: 33%; padding: 10px; text-align: center; vertical-align: top; border: none;">
+        <a href="https://github.com/bait-py/statify">
+          <img src="https://github.com/bait-py/statify/blob/main/dashboard.png" alt="Statify Dashboard Preview" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px;"/>
+        </a>
+        <br />
+        <strong>Statify</strong>
+        <p>Containerized web application for Spotify artists to analyze their metrics.</p>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -78,4 +88,4 @@ Connect with me and see more of my work:
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en&theme=radical" alt="bait-py" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en&theme=dark" alt="bait-py" /></p>
