@@ -77,8 +77,6 @@ Take a look at my recent builds:
 
 ## 🔗 Connect & Explore My Work
 
-Connect with me and see more of my work:
-
 | Platform | Link |
 | :---: | :---: |
 | **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://bait-py.github.io/portfolio/) |
