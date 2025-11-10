@@ -1,4 +1,8 @@
-<h1 align="center">🎣 Bruno Alonso (@bait-py)</h1>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/91563229?v=4" alt="Statify Logo" width="200">
+  <h1>🎣 Bruno Alonso (@bait-py)</h1>
+</div>
+
 <h3>Full-Stack Developer from Spain | Building impactful solutions with a passion for DevOps</h3>
 I'm a full-stack developer from Spain, focused on building robust and scalable solutions with a solid DevOps mindset. From infrastructure automation to container orchestration, I craft each project end-to-end — planning, coding, deploying, and optimizing for real-world impact. Passionate about Linux, cloud-native tech, and making systems work smoother every day.
 
@@ -16,7 +20,7 @@ I'm a full-stack developer from Spain, focused on building robust and scalable s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" alt="NodeJS" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain.svg" align="left" alt="Java" width="30px" style="padding-right:10px;"/>
