@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/91563229?v=4" alt="Statify Logo" width="200">
-  <h1>🎣 Bruno Alonso (@bait-py)</h1>
+  <h1>Bruno Alonso (@bait-py)</h1>
 </div>
 
 <h3>Full-Stack Developer from Spain | Building impactful solutions with a passion for DevOps</h3>
