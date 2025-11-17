@@ -72,11 +72,17 @@ I'm a full-stack developer from Spain, focused on building robust and scalable s
         <strong>Hyprland Dotfiles</strong>
         <p>My hyprland desktop dotfiles and other configurations.</p>
       </td>
+      <td style="width: 33%; padding: 10px; text-align: center; vertical-align: top; border: none;">
+        <a href="https://github.com/bait-py/autostack">
+          <img src="https://github.com/bait-py/autostack/blob/main/autostack.png" alt="AutoStack Logo" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px;"/>
+        </a>
+        <br />
+        <strong>AutoStack</strong>
+        <p>Professional Docker stack generator for rapid development environment setup.</p>
+      </td>
     </tr>
   </table>
 </div>
-
-
 
 #
 
