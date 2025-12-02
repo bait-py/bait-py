@@ -87,7 +87,10 @@ I'm a full-stack developer from Spain, focused on building robust and scalable s
 #
 
 ### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en&theme=dark" alt="bait-py" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en&theme=dark" alt="bait-py" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bait-py&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 #
 
