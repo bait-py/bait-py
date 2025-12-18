@@ -1,31 +1,38 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/91563229?v=4" alt="Statify Logo" width="200">
-  <h1>Bruno Alonso (@bait-py)</h1>
+  <img src="https://avatars.githubusercontent.com/u/91563229?v=4" alt="Logo" width="160">
 </div>
 
-<h3>Full-Stack Developer from Spain | Building impactful solutions with a passion for DevOps</h3>
-I'm a full-stack developer from Spain, focused on building robust and scalable solutions with a solid DevOps mindset. From infrastructure automation to container orchestration, I craft each project end-to-end — planning, coding, deploying, and optimizing for real-world impact. Passionate about Linux, cloud-native tech, and making systems work smoother every day.
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello there! I'm Bruno
+      <br>
+        Full-Stack Developer from Spain; focused on Cloud-Native tech, Linux, and automation.
+      </b>
+      <br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=7A95C9&center=true&vCenter=true&width=435&lines=Building+impactful+solutions;DevOps+and+Infrastructure;Crafting+robust+systems.">
+      <br>
+      <b>
+          ~ Bruno Alonso (@bait-py) ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
----
+#
 
-### 🧰 Languages and Tools
-
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="Ansible" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="Java" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="30px"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript" height="30px"></code>
+<div align="center">
+  <h3><samp>🛠️ Languages and Tools</samp></h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible,bash,docker,flutter,git,java,js,kubernetes,linux,nodejs,ts&theme=dark" />
+  </a>
+</div>
 <br />
 
 #
 
-### 🛠️ Featured Projects
+### <samp>🚀 Featured Projects</samp>
 
 <div align="center">
   <table style="width: 100%; table-layout: fixed; border: none;">
@@ -86,13 +93,15 @@ I'm a full-stack developer from Spain, focused on building robust and scalable s
 
 #
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en&theme=dark" alt="bait-py" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bait-py&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-#
+### <samp>📊 Stats</samp>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" /></td>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bait-py&layout=compact&theme=nord&hide_border=true&bg_color=0D1117" /></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <a href="https://bait-py.github.io/portfolio/">
